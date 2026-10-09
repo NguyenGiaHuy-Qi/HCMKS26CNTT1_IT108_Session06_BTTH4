@@ -1,0 +1,7 @@
+Phần 1: Bảng so sánh
+Tiêu chí	Absolute Path	Relative Path
+Độ dài	Dài	Ngắn
+Tính di động	Thấp, phụ thuộc đường dẫn máy	Cao, dễ chia sẻ project
+Phần 2: Lựa chọn
+Em chọn Relative Path (../data/logs.csv) vì ngắn gọn và dễ sử dụng khi gửi project cho người khác.
+Ký hiệu .. có nghĩa là lùi lên một thư mục cha so với thư mục hiện tại. Tuy nhiên, đường dẫn này chỉ đúng khi vị trí file Python phù hợp với cấu trúc thư mục.
